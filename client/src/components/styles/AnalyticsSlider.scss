@@ -1,0 +1,12 @@
+.slider__item{
+  padding: 15px 20px;
+  max-width: 250px;
+  
+  li{
+    list-style: none;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+}

@@ -1,0 +1,16 @@
+.form__wrapper {
+  width: 600px;
+
+  .form{
+    padding: 20px 25px;
+    border-radius: 15px;
+    box-shadow: 0 3px 5px 0px rgba($color: #000000, $alpha: 0.3);
+
+  }
+  .form__label{
+    color: #1976d2;
+    text-align: left;
+    font-size: 0.9rem;
+    margin: 0px 0px 10px 10px;
+  }
+}
